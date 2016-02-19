@@ -1,5 +1,0 @@
-strClassName;fRecCapaRate;socialClass;fsurfPrivRate;fSurfPubRate;fSurfTransRate;fNectarSourceRate;fRestSourceRate;fOutSpaceRate;fDenBsInNoWaterMin;fDenBsInNoWaterMax;fDenBsOutNoWaterMin;fDenBsOutNoWaterMax;color;fTempVarRate;fPorosityMin;fPorosityMax
-builtup;0.7;low;0.6;0.4;0.01;0.1;0.7;0.1;0.02;0.16;0.01;0.14;grey;1.07;0.3;0.5
-tree;1;none;0;0;0;1;1;1;0;0.53;1.17;32.44;green;0.9;0.6;0.9
-openspace;0.2;low;0.05;0.6875;0.15;0.25;0.25;1;0;1.07;0.43;36.17;yellow;1;0.9;1
-road;1.9;none;0.05;0.25;0.7;0.1;0.2;1;0;0;1.91;28.71;red;1;0.6;0.9
