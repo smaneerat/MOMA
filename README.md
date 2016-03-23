@@ -7,3 +7,5 @@ This version is used as a test for the simulation of Aedes mosquito dispersal in
 Duration: 1 month in June 2008
 
 * To launch the model, add all the repository or open .project with gama 1.6.1 
+* https://zenodo.org/badge/20522/smaneerat/MOMA.svg
+
