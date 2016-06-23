@@ -300,6 +300,12 @@ global
 			
 	}
 	
+	reflex updateWeathe when: bNewDay
+	{
+		fGlobalTodayAirTempC <- (list_daily_max_temp[nb_days] + list_daily_min_temp[nb_days])/2;
+		fGlobalTodayRainfall <- list_daily_rain[nb_days];
+	}
+	
 	
 	/*****************************************
 	 * STOP Simulation if bAutoSimStop = true
